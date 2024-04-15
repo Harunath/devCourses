@@ -1,0 +1,19 @@
+# Dependency directories
+backend/node_modules/
+
+# TypeScript build output
+backend/dist/
+
+# Environment variables file
+backend/.env
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
