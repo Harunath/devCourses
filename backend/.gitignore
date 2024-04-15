@@ -1,4 +1,19 @@
-node_modules
-dist
-dist-ssr
-*.local
+# Dependency directories
+node_modules/
+
+# TypeScript build output
+dist/
+
+# Environment variables file
+.env
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
