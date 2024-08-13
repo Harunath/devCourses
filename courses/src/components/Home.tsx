@@ -1,4 +1,6 @@
-import React from "react";
+import wdb from "../assets/images/Teachable Thumbnails.png";
+import py from "../assets/images/FREE-Python-Course-For-Beginners.png";
+import ml from "../assets/images/ML.jpg";
 
 const courses = [
 	{
@@ -6,21 +8,21 @@ const courses = [
 		title: "Web Development Bootcamp",
 		instructor: "John Doe",
 		price: 49.99,
-		image: "https://via.placeholder.com/150",
+		image: wdb,
 	},
 	{
 		id: 2,
 		title: "Python for Beginners",
 		instructor: "Jane Smith",
 		price: 39.99,
-		image: "https://via.placeholder.com/150",
+		image: py,
 	},
 	{
 		id: 3,
 		title: "Machine Learning Fundamentals",
 		instructor: "Alice Johnson",
 		price: 59.99,
-		image: "https://via.placeholder.com/150",
+		image: ml,
 	},
 ];
 
